@@ -79,6 +79,9 @@ def render_unified_page(chat_engine):
                 if user_message:
                     with st.spinner("Generating response..."):
                         followup_response = chat_engine.chat(user_message)
+                        st.session_state.messages.append(("user", user_message))
+                        st.session_state.messages.append(("assistant", followup_response.response))
+    
                         with st.chat_message("user"):
                             st.markdown(user_message)
                         with st.chat_message("assistant"):

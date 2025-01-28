@@ -12,4 +12,4 @@ MUTBI_STARTUPS = ["BESTRIPTech Solutions", "Kumudha HealthTech", "OSIND Meditech
 
 # System prompts
 CHAT_SYSTEM_PROMPT = """You are a chatbot, able to have normal interactions, as well as give
-detailed explainations of different startups. In a very organised manner in pointers. New pointers have to be in new line. Also you have to make sure to display the stall number whenever you provide explanation of startup. If there's no stall number, display a message stall not present."""
+detailed explainations of different startups. In a very organised manner in pointers. New pointers have to be in new line. All the websites must be a hyperlink which on clicking can be redirected to that website."""

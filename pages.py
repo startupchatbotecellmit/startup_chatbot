@@ -31,6 +31,29 @@ def render_unified_page(chat_engine):
             word-wrap: break-word;
             margin-top: 20px;
         }
+        .scrollable-container {
+            height: 400px;
+            overflow-y: auto;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: white;
+        }
+        /* Custom scrollbar styles */
+        .scrollable-container::-webkit-scrollbar {
+            width: 8px;
+        }
+        .scrollable-container::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 4px;
+        }
+        .scrollable-container::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 4px;
+        }
+        .scrollable-container::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
         </style>
     """, unsafe_allow_html=True)
     
@@ -69,19 +92,27 @@ def render_unified_page(chat_engine):
                 continue
                 
             st.markdown(f"Showing {len(filtered_startups)} startups")
-            cols = st.columns(3)
-            
-            for idx, startup in enumerate(filtered_startups):
-                with cols[idx % 3]:
-                    if st.button(
-                        startup,
-                        key=f"{key}_startup_{idx}",
-                        use_container_width=True
-                    ):
-                        st.session_state.clicked_startup = startup
-                        # Clear messages when new startup is selected
-                        st.session_state.messages = []
-    
+            with st.container():
+                st.markdown('<div class="scrollable-container">', unsafe_allow_html=True)
+                cols = st.columns(3)
+                
+                # Calculate number of rows needed
+                num_rows = (len(filtered_startups) + 2) // 3  # Round up division
+                
+                for row in range(num_rows):
+                    for col in range(3):
+                        idx = row * 3 + col
+                        if idx < len(filtered_startups):
+                            with cols[col]:
+                                if st.button(
+                                    filtered_startups[idx],
+                                    key=f"{key}_startup_{idx}",
+                                    use_container_width=True
+                                ):
+                                    st.session_state.clicked_startup = filtered_startups[idx]
+                                    st.session_state.messages = []
+                
+                st.markdown('</div>', unsafe_allow_html=True)    
     # Display chat interface if a startup is selected
     if st.session_state.clicked_startup:
         try:

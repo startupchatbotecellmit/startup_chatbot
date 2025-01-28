@@ -102,7 +102,7 @@ def render_unified_page(chat_engine):
                         ("user", user_message),
                         ("assistant", followup_response.response)
                     ])
-                    st.rerun()
+                    st.experimental_rerun()
                     
         except Exception as e:
             st.error(f"Error generating response: {str(e)}")

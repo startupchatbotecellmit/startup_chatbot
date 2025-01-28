@@ -3,6 +3,10 @@ from config import INNOVATION_CENTRE_STARTUPS, MUTBI_STARTUPS, MBI_STARTUPS
 from utils import handle_click
 
 def render_unified_page(chat_engine):
+    # Initialize session state for messages if it doesn't exist
+    if 'messages' not in st.session_state:
+        st.session_state.messages = []
+    
     st.markdown("""
         <style>
         .stButton button {
@@ -29,8 +33,12 @@ def render_unified_page(chat_engine):
         }
         </style>
     """, unsafe_allow_html=True)
-
+    
     st.title("Startup Incubators")
+    
+    # Store clicked startup in session state
+    if 'clicked_startup' not in st.session_state:
+        st.session_state.clicked_startup = None
     
     # First display all tabs and buttons
     tabs = st.tabs(["Innovation Centre", "MUTBI", "Manipal Bio-Incubator"])
@@ -39,9 +47,7 @@ def render_unified_page(chat_engine):
         (MUTBI_STARTUPS, "mutbi", "MUTBI Startups"),
         (MBI_STARTUPS, "mbi", "Manipal Bio-Incubator Startups")
     ]
-
-    clicked_startup = None
-
+    
     for tab, (startups, key, title) in zip(tabs, incubator_data):
         with tab:
             st.subheader(title)
@@ -62,29 +68,41 @@ def render_unified_page(chat_engine):
                         key=f"{key}_startup_{idx}",
                         use_container_width=True
                     ):
-                        clicked_startup = startup
-
-    # Then show response below all tabs if a startup was clicked
-    if clicked_startup:
-        try:
-            with st.spinner("Generating response..."):
-                response = chat_engine.chat(f"Tell me about {clicked_startup}")
-                st.markdown('<div class="startup-messages">', unsafe_allow_html=True)
-                with st.chat_message("user"):
-                    st.markdown(f"Tell me about {clicked_startup}")
-                with st.chat_message("assistant"):
-                    st.markdown(response.response)
-                st.markdown('</div>', unsafe_allow_html=True)
-                user_message = st.text_input("Type your message below to ask more about this startup:", key="chat_bar")
-                if user_message:
-                    with st.spinner("Generating response..."):
-                        followup_response = chat_engine.chat(user_message)
-                        st.session_state.messages.append(("user", user_message))
-                        st.session_state.messages.append(("assistant", followup_response.response))
+                        st.session_state.clicked_startup = startup
+                        # Clear messages when new startup is selected
+                        st.session_state.messages = []
     
-                        with st.chat_message("user"):
-                            st.markdown(user_message)
-                        with st.chat_message("assistant"):
-                            st.markdown(followup_response.response)
+    # Display chat interface if a startup is selected
+    if st.session_state.clicked_startup:
+        try:
+            st.markdown('<div class="startup-messages">', unsafe_allow_html=True)
+            
+            # Display initial query if messages are empty
+            if not st.session_state.messages:
+                with st.spinner("Generating response..."):
+                    response = chat_engine.chat(f"Tell me about {st.session_state.clicked_startup}")
+                    st.session_state.messages.extend([
+                        ("user", f"Tell me about {st.session_state.clicked_startup}"),
+                        ("assistant", response.response)
+                    ])
+            
+            # Display all messages
+            for role, content in st.session_state.messages:
+                with st.chat_message(role):
+                    st.markdown(content)
+            
+            st.markdown('</div>', unsafe_allow_html=True)
+            
+            # Chat input
+            user_message = st.chat_input("Type your message here...")
+            if user_message:
+                with st.spinner("Generating response..."):
+                    followup_response = chat_engine.chat(user_message)
+                    st.session_state.messages.extend([
+                        ("user", user_message),
+                        ("assistant", followup_response.response)
+                    ])
+                    st.rerun()
+                    
         except Exception as e:
             st.error(f"Error generating response: {str(e)}")

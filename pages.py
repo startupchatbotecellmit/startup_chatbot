@@ -40,6 +40,16 @@ def render_unified_page(chat_engine):
     if 'clicked_startup' not in st.session_state:
         st.session_state.clicked_startup = None
     
+    def on_new_chat_message():
+        if st.session_state.user_input:
+            with st.spinner("Generating response..."):
+                followup_response = chat_engine.chat(st.session_state.user_input)
+                st.session_state.messages.extend([
+                    ("user", st.session_state.user_input),
+                    ("assistant", followup_response.response)
+                ])
+                st.session_state.user_input = ""  # Clear the input after processing
+    
     # First display all tabs and buttons
     tabs = st.tabs(["Innovation Centre", "MUTBI", "Manipal Bio-Incubator"])
     incubator_data = [
@@ -93,16 +103,12 @@ def render_unified_page(chat_engine):
             
             st.markdown('</div>', unsafe_allow_html=True)
             
-            # Chat input
-            user_message = st.chat_input("Type your message here...")
-            if user_message:
-                with st.spinner("Generating response..."):
-                    followup_response = chat_engine.chat(user_message)
-                    st.session_state.messages.extend([
-                        ("user", user_message),
-                        ("assistant", followup_response.response)
-                    ])
-                    st.experimental_rerun()
+            # Chat input using text_input with callback
+            st.text_input(
+                "Type your message here...",
+                key="user_input",
+                on_change=on_new_chat_message
+            )
                     
         except Exception as e:
             st.error(f"Error generating response: {str(e)}")

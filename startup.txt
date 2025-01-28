@@ -1,65 +1,121 @@
 Startup Name: Blackfrog Technologies Pvt. Ltd.
 Description: Blackfrog Technologies Pvt. Ltd. is a Manipal, based technology startup company that seeks to improve the efficiency of immunization supply chains. They have developed a patented system for precision cold-chain and vaccine traceability with support from BIRAC (DBT) and leading impact investors in the nation including Venture Centre (NCL, Pune) and Social Alpha to provide logistical support in the last-mile delivery of vaccines. Emvólio is a portable, battery-powered refrigeration device that will strictly maintain any preset temperature for over 12 hours for last mile transport of vaccines. Emvólio’s 2-litre capacity enables it to carry 30- 50 vials, which is standard for a daylong immunization campaign. Further device capabilities include continuous temperature monitoring, location tracking, state-of-charge indication, communication with headquarters via live tracking, and vital statistics for improved coverage.
+Phone No: +91 98803 19799
+Website: www.blackfrog.in
+Email ID: shettymayur619@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: BESTRIPTech Solutions Pvt. Ltd.
 Description: BESTRIPTech Solutions is a travel and hospitality technology startup, based out of Bangalore, India. Their vision is to empower every brick and mortar hospitality businesses by bridging the digital divide between them and mighty online platforms. GoYaana is backed by support from tech giant - 'Microsoft for Startups' and were declared as a runner-up in grand finale of Karnataka Startup awards - Elevate 2021. Founders have strong technology experience having worked in IT industry for 18+ years in some of the top product companies like Yahoo, Ericsson etc. Our vision was also appreciated and supported by of some of the premier organisations like Stanford University (Rebuild 2020), Wadhwani Foundation (We Lift-Off) etc. The flagship technology product - Hotel “SuperApp” is used by some of the best hotel brands in India like - Fortune-ITC hotel and also by many individual hotels as a white-labelled product for their brand to drive a higher percentage of revenue from the guests and at the same time streamlining the day to day operational grind for the hotel staff.
+Phone No: +91 98458 56738
+Website: www.goyanna.com
+Email ID: prasad@goyaana.com
 —------------------------------------------------------------------------------
 Startup Name: Kumudha HealthTech Pvt. Ltd.
 Description: Dr. Sampath Kumar & Dr. Hareesha K S are the promoters of Kumudha Health Tech Private Limited. They are working on 3D diagnostic and treatment planning tool for the spinal disorders
+Phone No:+91 94805 75352
+Website: in.linkedin.com/company/kumudha
 —------------------------------------------------------------------------------
 Startup Name: OSIND Meditech Pvt. Ltd.
-Description: Mr. Mohd. Samheel & Mr. Abdul are the promoters of Osind Medi Tech Private Limited. They are working on a Self Driven Rehabilitation Device for Stroke and Neuro-muscular Deficit Patients
+Description: Mr. Mohd. Samheel & Mr. Abdul are the promoters of Osind Medi Tech Private Limited. They are working on a Self Driven Rehabilitation Device for Stroke and Neuro-muscular Deficit Patients.
+Phone No:+91 89048 51783
+Website: www.sindmeditech.com
+Email ID:mssamheel@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Udupi eSamudaay Digital Services Pvt Ltd
-Description: eSamudaay is a commerce company serving sellers & consumers in Udupi. It is a SaaS Platform for building a network of digital entrepreneurs and empower small businesses . It is promoted by Mr. Anup Pai, Mr. Ravi Chandan Haldipur, Mr. Shivananda Bhat and Mr. Sudarshan M
+Description: eSamudaay is a commerce company serving sellers & consumers in Udupi. It is a SaaS Platform for building a network of digital entrepreneurs and empower small businesses . It is promoted by Mr. Anup Pai, Mr. Ravi Chandan Haldipur, Mr. Shivananda Bhat and Mr. Sudarshan M.
+Phone No: +91 98456 51655
+Website: www.esamudaayudupi.com
+Email ID: sudarshan@esamudaay.com
 —------------------------------------------------------------------------------
 Startup Name: Co Works Solutions Pvt. Ltd.
-Description: Co Works is a Tech Start-up company from the founders of M/s. DIQU Tech and M/s. DELFOI Tanoti Technologies . This startup is developing a Digital Platform to transform SME sector with “Udyogasetu”. Mr. Aravind Chinnappa, Mr. Prashanth S N, Mrs. Meetu Sehgal and Mr. Pradeep V K are the promoters
+Description: Co Works is a Tech Start-up company from the founders of M/s. DIQU Tech and M/s. DELFOI Tanoti Technologies . This startup is developing a Digital Platform to transform SME sector with “Udyogasetu”. Mr. Aravind Chinnappa, Mr. Prashanth S N, Mrs. Meetu Sehgal and Mr. Pradeep V K are the promoters.
+Phone :+91 98804 50222
+Website: www.coworkssolutions.com
+Email ID: prashanth@coworkssolutions.com
 —------------------------------------------------------------------------------
 Startup Name: Avista E Learing
 Description: Avista E Learing imparts training through blended technique and provides professional interaction with industrial expertise through mentorship. It tries to cover the industry and academic gap through case based learning and aims in developing strong analytical and communication skills along with work attitude among the fresh graduates.
+Phone No: +91 98801 51127
+Website: www.avistaelearn.com
 —------------------------------------------------------------------------------
 Startup Name: PharmIT Solutions Pvt. Ltd.
 Description: Pharmit partners with drug manufacturers, distributors, chemists, and pharmacy networks / stores to connect the entire pharma supply chain. They accumulate the data at all levels to manage receipts, orders, distribution, returns, and invoices. Their business intelligence platform helps the manufacturers, distributors and retailers to plan promotions and reallocate capital by analysing real time data across the supply chain.
+Phone No: +91 99168 24091
+Website: www.pharmit.co.in
+Email ID: sandeep@pharmit.in
 —------------------------------------------------------------------------------
 Startup Name: Replastiko Pvt. Ltd.
 Description: Replastiko Pvt. Ltd. recycles plastic waste (Polypropylene (PP), Low-Density Polyethylene (LDPE), and High-Density Polyethylene (HDPE)) in their ultra-modern facility and use recycled plastic building materials to create useful products for different industries. This startup aims to use waste efficiently and reduce CO2 emissions.
+Phone No: +91 81479 01288
+Email ID: vishnu3292@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Eclipse India Pvt. Ltd.
 Description: Eclipse India Pvt. Ltd. is a software consultancy firm dedicated to help financial service companies. By leveraging the latest technology and innovative approaches, the startup offers customized software solutions that streamline operations, enhance efficiency, and drive growth. The goal is to provide the clients with a competitive edge by improving their core processes and systems.
+Website: www.eclgrp.com/
 —------------------------------------------------------------------------------
 Startup Name: Maiyas Healthcare Pvt. Ltd.
 Description: Maiyas Healthcare is working on LASER Shoe box for the Management of Diabetic Peripheral Neuropathy Pain. A Special ‘Laser Shoe box’ is developed with emitting Low Level Laser Therapy of 655nm RED Laser and 830nm IR Laser over the trigger points surrounded by several 635nm LEDs covering the plantar and dorsal aspect of foot. The ‘Laser Shoe’ is designed to fit all sizes of adults. It is simple to use and easy to operate.
+Phone No: +91 98453 50823
+Website: www.maiyashealthcare.com
 —------------------------------------------------------------------------------
 Startup Name: IOTRACX Pvt. Ltd.
 Description: IoTracX is an emerging technology company building IoT, Cloud based & AI solutions for businesses in the areas of micro mobility, drones, 5G innovation and edge computing. They develop plug and play components to help businesses adopt these technologies to streamline their business, operational and service processes. They offer products as well as customized solution realization for specific industry verticals such as Smart cities, Connected inventory and Smart Agro.
+Phone No: +91 94803 02017
+Website: www.linkedin.com/company/iotracx
+Email ID:gopi@iotracx.com
 —------------------------------------------------------------------------------
 Startup Name: Drone View Solutions LLP
 Description: Drone View Solutions LLP offers drone-based services that empower businesses to harness aerial automation without the need for significant investments in drone hardware and infrastructure. They specialize in creating 2D maps and 3D digital twins for enterprises, enhancing operational efficiency and decision-making.
+Phone No: +91 82188 85480
+Website: www.droneview.co.in
+Email ID: adwait312@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Zupaloop Pvt. Ltd.
 Description: Zupaloop Pvt. Ltd. specializes in an AI/ML-based content analysis and collaboration tool. They empower features such as content analysis, summarization, and contextual search to facilitate better collaboration over video, enhancing productivity and efficiency in digital interactions.
+Phone No: +91 94488 58834
+Email ID:ranjitha@zupaloop.com
 —------------------------------------------------------------------------------
 Startup Name: Lakir Teachnologies
 Description: Lakir Teachnologies revolutionizes the industry with cutting-edge stereo vision drones and connect skilled pilots with diverse services. Their intelligent software solutions empower drones to deliver exceptional performance and versatility.
+Phone No: +91 79821 25643
+Website: www.lakirtechnologies.com
+Email ID: rohan.lakir@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Biosutra LLP
 Description: Biosutra LLP is dedicated to advancing waste management solutions. They focus on innovative and sustainable methods to efficiently handle and reduce waste, contributing to a cleaner and healthier environment.
+Phone No:+91 78921 09598
+Website: www.biosutra.in
+Email ID: ganeshchathwar@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: TAD aircon Pvt. Ltd.
 Description: TAD Aircon is dedicated to achieving their commitment to healthier, cleaner, and sustainable indoor air quality. They focus on innovative solutions to enhance the air we breathe indoors, ensuring a safer and more comfortable environment for all.
+Phone No:+91 89045 51408
+Website:www.tadaircon.com
+Email ID:adrian@tadaircon.com
 —------------------------------------------------------------------------------
 Startup Name: Nimble vision Pvt. Ltd.
 Description: Nimble Vision Pvt. Ltd. specializes in Smart Water & Sewage Management using IoT and AI. They assist B2B and B2C clients by providing comprehensive analytics on water availability and consumption. Their solutions enhance efficiency, reduce waste, and promote sustainable water management practices.
+Phone No: +91 95352 71529
+Website: https://nimblevision.io/
+Email ID:connect@nimblevision.io
 —------------------------------------------------------------------------------
 Startup Name: Panjurli labs Pvt. Ltd.
 Description: Panjurli Labs Pvt. Ltd. is a leading manufacturer of customized, self-cleaning sustainable air purifiers designed for indoor, semi-indoor, and outdoor applications. They are pioneers in delivering comprehensive solutions for clean air challenges. Their innovative products ensure a healthier and cleaner environment across various settings.
+Phone No:+91 99002 70875
+Website:www.panjurlilabs.com
+Email ID:ashik@panjurlilabs.com
 —------------------------------------------------------------------------------
 Startup Name: Zigme Careeers Pvt. Ltd.
 Description: ZigMe Careers Pvt. Ltd. provides the essential tools and opportunities to propel professional journeys from the very start. The platform is designed to support career growth and development, ensuring individuals can confidently navigate and achieve professional goals. With ZigMe, users are equipped with the resources and guidance necessary for career advancement and success.
+Phone No:+91 95522 72383
+Website: www.zigme.in
+Email: rima@inventiway.in
 —------------------------------------------------------------------------------
 Startup Name: Malpe Meen Pvt. Ltd.
 Description: Malpe Meen Pvt. Ltd. is committed to leveraging technology to establish a lean and efficient supply chain from source to consumer. By doing so, they aim to retain more value for the fishing community while enabling the active participation of fishing community stakeholders in the business. Their innovative approach fosters sustainability and equitable economic growth within the fishing industry.
+Phone No:+91 98861 46001
+Website:www.malpemeen.com
+Email: shammimalpe@yahoo.com
 —------------------------------------------------------------------------------
 Startup Name: Health is wealth LLP
 Description: Health is Wealth LLP specializes in the development of smart floor mats. By leveraging technology, they aim to promote safety, comfort, and well-being in various environments, from hospitals to homes.

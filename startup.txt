@@ -131,30 +131,38 @@ Description: Alantis Sciences India Private Limited is dedicated to promoting an
 and development activities within the fields of life sciences and biotechnology. The
 company’s mission is to provide a one-stop solution for cell biology, molecular biology,
 genetic research, and diagnostic testing.
+Phone No:+91 99095 77323
+Website: www.alantissciencesindia.com
+Email ID: spbhat81@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Aaray Health Solutions Private Limited
 Description: Aaray Health Solutions Private Limited is a healthcare solutions company offering services
 and products, including preclinical histology services, histology training and workshops,
 organic herbals, nutraceuticals, and health products. The company also provides
 eco-friendly, biodegradable natural home products.
+Website: www.aarayhealthsolutions.in
+Email ID: drshinyjasphin@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Aironc Healthcare Technologies Private Limited
 Description: AIRONC Healthcare Technologies Private Limited specializes in developing AI-based
 applications for radiation oncology treatment workflows. Their flagship product, radonc.ai,
 utilizes artificial intelligence and machine learning to assist oncologists in cancer treatment
 planning by automatically identifying tumors and at-risk organs in medical scans.
+Email ID: shirley.lewis@radonc.ai
 —------------------------------------------------------------------------------
 Startup Name: LEAD Molecules LLP
 Description: LEAD Molecules LLP focuses on drug discovery and development, with a particular
 emphasis on identifying new therapeutic indications for existing drugs. The company
 employs a strategic approach to drug repositioning, identifying new uses for established
 drugs that have already been proven safe for human use.
+Email ID: paianoopkishore@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: URWI Medical Innovations Private Limited
 Description: URWI Medical Innovations Private Limited is a research and development startup primarily
 engaged in experimental development within the fields of natural sciences and engineering.
 Based in Udupi, Karnataka, the company specializes in the creation of innovative medical
 devices.
+Email ID: urwi.innovations@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: CURIOUZ Techlabs Private Limited
 Description: CURIOUZ Techlabs Private Limited is a BIRAC BIG Grant-funded startup that focuses on
@@ -162,6 +170,7 @@ medical device innovation. The company develops medical devices, web and mobile
 applications (Android/iOS), and AI-based solutions for healthcare. Their goal is to provide
 affordable healthcare by fostering connections between technology, patients, and healthcare
 leaders.
+Email ID: curiouz.tech@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: EikonaX Innovative Solutions Private Limited
 Description: EikonaX Innovative Solutions Private Limited specializes in the development of affordable
@@ -169,6 +178,8 @@ and accurate dental X-ray solutions. Their flagship product, Tarsier X®, integr
 holder and aligner to enhance user efficiency and patient comfort while eliminating common
 positioning errors. The company aims to advance dental care by providing pain-free, precise
 X-ray solutions for both patients and professionals.
+Website: www.eikonax.com
+Email ID: shruthi.acharya@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Microbolite Research Development Private Limited,Microbolite Research
 Development Private Limited
@@ -176,6 +187,9 @@ Description: Microbolite offers certified services including antimicrobial effic
 testing for textiles (AATCC, ASTM standards), quorum quenching analysis,
 microscopy-based sample analysis, disinfectant and sanitizer testing, environmental
 monitoring, and microbial identification.
+Phone No:+91 96631 55991
+Website: www.microbolite.in
+Email ID: reshmapkd1991@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Uniarc Services LLP
 Description: UniArc Services LLP assists Higher Education Institutions (HEIs) in achieving accreditation
@@ -184,6 +198,7 @@ experience in academic and research management, the company provides end-to-end
 solutions, including customized student and research management software. UniArc helps
 institutions effectively capture and submit data in the required formats for ranking agencies,
 enhancing their overall performance.
+Email ID: nirupajs@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Vyabja Ocular Innovations Private Limited
 Description: Vyabja Ocular Innovations Private Limited, founded on March 17, 2020, focuses on research
@@ -191,6 +206,7 @@ and experimental development in natural sciences and engineering. Based at the M
 GOK Bioincubator, the company specializes in ocular innovations with an emphasis on
 medical sciences. Led by directors Bharath Raja Guru and Sulatha Venkataraya Bhandary, it
 aims to contribute to advancements in the field of eye care and related technologies.
+Email ID: bharathrguru@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Biomed Implants and Research Technologies LLP
 Description: Biomed Implants and Research Technologies LLP specializes in the innovation and
@@ -198,6 +214,9 @@ manufacturing of high-quality medical and dental implant systems, including join
 The company focuses on precision, offering customized products tailored to clients' specific
 needs. With expertise in design, research, and development, it aims to advance the field of
 medical implant technology.
+Phone No:+91 73495 54025
+Website: www.biomedimplants.com
+Email Id:jshanthik@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Regenco Innovations Private Limited
 Description: Regenco Innovation Private Limited, incorporated on 16 November 2020, specializes in
@@ -205,6 +224,7 @@ developing 3D tissue-engineered products using advanced bio-printing technology.
 research focuses on refining tissue construct development to bridge the gap between
 demand and supply for tissue substitutes. The aim is to replicate native body tissues for
 optimal functionality and integration.
+Email ID: rudranath1995ghosh@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Drava Life Sciences Private Limited
 Description: Drava Life Sciences is focused on enhancing cancer diagnosis and precision medicine
@@ -212,29 +232,38 @@ through liquid biopsy-based companion diagnostics. The company specializes in de
 actionable mutations in lung cancer, aiming to improve treatment outcomes. Their innovative
 approach supports personalized care by identifying critical genetic information for targeted
 therapies.
+Website: www.dravalifesciences.com
+Email ID: rama.damerla@manipal.edu
 —------------------------------------------------------------------------------
 Startup Name: Sciogen Biosciences Private Limited
 Description: Sciogen is a biopharmaceutical company focused on developing advanced vaccines and
 therapeutics. It specializes in preventing and treating respiratory virus infections, including
 influenza and RSV. The company leverages innovative science to create more effective
 medicines.
+Email ID: meetshetty96@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Scires Technologies Private Limited
 Description: The company develops, evaluates, scales up, patents, and commercializes technologies and
 products. It sells these innovations to potential buyers and offers services in research,
 technology, academics, and intellectual property management to individuals, businesses,
 and academic institutions.
+Website: www.scirestechnologies.com
 —------------------------------------------------------------------------------
 Startup Name: Biobreath Health Solutions Private Limited
 Description: Biobreath Health Solutions Private Limited, founded by esteemed academicians, is a
 start-up dedicated to transforming cutting-edge research into impactful healthcare solutions.
 Their vision is to pioneer innovative and accessible advancements in healthcare.
+Phone No:+91 94485 47155
+Website: www.biobreath.in
+Email ID:meenasundar@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Seragen Biotherapeutics Private Limited
 Description: Seragen Biotherapeutics Private Limited blends cutting-edge science with extensive fertility
 and gynecology data to develop deeply personalized protocols and therapeutic dosages.
 The company is committed to delivering certainty in conception and redefining reproductive
 healthcare through innovation and precision.
+Website: www.seragen.co
+Email ID: regentherapeutics@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Konkan Watercrafts Private Limited
 Description: Konkan Kayaks, founded by Sushant, popularly known as Kayakboy, is the culmination of
@@ -244,26 +273,15 @@ his extensive knowledge of kayaks from around the world, he recognized the need 
 versatile designs that balance speed, stability, and comfort. Konkan Kayaks is dedicated to
 crafting high-quality sit-on-top tandem kayaks that are durable, user-friendly, and built to
 meet the evolving needs of paddlers.
+Phone No:+91 98809 46295
+Website: www.konkankayaks.com
+Email ID:sushantt2099@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Businexbridge Possibility Solutions Private Limited
 Description: Businexbridge Possibility Solutions Private Limited, incorporated on 17 February 2021, is a
 non-government company registered in Bangalore. With a focus on research and
 experimental development in natural sciences and engineering, the company engages in
 systematic creative work across medical sciences, agriculture, and technology.
-—------------------------------------------------------------------------------
-Startup Name: Tad Aircon Private Limited
-Description: Tad Aircon is dedicated to improving indoor air quality in urban office spaces with centralized
-air conditioning systems. Our research focuses on measuring key air parameters like dust
-particle count, CO2, ozone levels, temperature, and humidity, providing solutions that ensure
-healthier, cleaner, and sustainable indoor environments without major changes to existing
-systems.
-—------------------------------------------------------------------------------
-Startup Name: Blackfrog Technologies Private Limited
-Description: Blackfrog Technologies Pvt. Ltd., based in Manipal, Karnataka, is a technology startup
-focused on enhancing the efficiency of immunization supply chains. Backed by BIRAC (DBT)
-and leading impact investors like Venture Centre and Social Alpha, the company has
-developed a patented precision cold-chain system to ensure reliable last-mile vaccine
-delivery and traceability.
 —------------------------------------------------------------------------------
 Startup Name: Iuva Foods Private Limited
 Description: IUVA FOODS is dedicated to creating healthy alternatives to sugary FMCG foods and
@@ -272,12 +290,16 @@ technology and manufacturing methods, the company ensures its frozen desserts an
 sweets maintain great taste, texture, and a rich experience. IUVA FOODS aims to offer a
 range of delicious, functional, and nutritious products that seamlessly fit into everyday
 lifestyles.
+Website: www.iuvalife.com
+Email ID: sourav40790@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Iuva Labs Private Limited
 Description: IUVA Labs is leading the way in precision fermentation technology to produce animal-free
 casein, a protein that makes up the majority of milk’s protein content. With a vision to go
 beyond casein, the company aims to develop whey proteins, paving the way for a fully
 animal-free milk alternative.
+Phone No:+91 90906 65566
+Email ID: shamabhat199710@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Tiny Prism Labs Private Limited
 Description: Tiny Prism Labs Private Limited, founded in 2022 specializes in TinyML and Embedded
@@ -285,6 +307,8 @@ Systems. The company develops innovative solutions addressing practical challeng
 across medicine, wildlife conservation, agriculture, and education. With a small, dynamic
 team, Tiny Prism Labs is pioneering advancements in the Embedded Software Products
 industry.
+Website: www.tinyprismlabs.com
+Email ID: maheshnayak.2810@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Senztech Technologies Private Limited
 Description: Senztech Technologies Private Limited, established on July 30, 2021, specializes in
@@ -292,6 +316,8 @@ research and experimental development in social sciences and humanities (SSH). T
 company operates from the Manipal-GOK Bioincubator and focuses on systematic creative
 work in SSH fields. Led by directors Nirmal Mazumder and Rajib Biswas, it remains active in
 advancing innovative research initiatives.
+Phone No:+91 73846 28742
+Email ID:rajib@tezu.ernet.in
 —------------------------------------------------------------------------------
 Startup Name: Ganglia Technologies Private Limited
 Description: Ganglia Technologies Private Limited, established on July 28, 2022, focuses on research
@@ -300,6 +326,8 @@ advancing medical sciences, agriculture, and engineering technology. Led by dire
 Dasharathraj Kodu Shetty, Mymbilly Balakrishnan Jayaraj, and Sandeep Shashikant Shenoy,
 the company is committed to driving innovation through systematic creative work in these
 fields.
+Phone No:+91 94495 84493
+Email ID:raja.shetty@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: SVN Novatech Private Limited
 Description: Svn Nova Tech Private Limited, founded on August 10, 2022, specializes in research and
@@ -317,6 +345,7 @@ government research organizations, and industries like defense, healthcare, and 
 With a focus on innovation, its portfolio includes Ion Mobility Spectroscopy Instruments,
 radiation detectors, biosensors, robotics, and environmental safety technologies, contributing
 to intellectual property development and skilled human resources.
+Phone No:83197 40210
 —------------------------------------------------------------------------------
 Startup Name: Autorobox Artificial Intelligence & Robotics Solutions Private Limited
 Description: Autorobox Pvt. Ltd., a DPPI and Start Up India-registered company, specializes in innovative
@@ -325,6 +354,8 @@ healthcare, and waste management, the company develops cutting-edge prototypes t
 enhance efficiency and reduce human intervention. Dedicated to technological evolution,
 Autorobox transforms groundbreaking ideas into practical applications, redefining the future
 of smart living.
+Website: www.autorobox.com
+Email ID: rejeesh83@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: BAHN Enterprises Private Limited
 Description: Auto Bahn Enterprises Private Limited, established on June 7, 2002, in Mumbai,
@@ -333,6 +364,7 @@ authorized share capital of ₹50,000,000, the company operates actively to cate
 specialized wholesale markets without specific product specialization. Led by directors
 Manisha Haren Choksey and Harshil Harenbhai Choksey, it is a key player in India's
 wholesale distribution industry.
+Website: www.bhanenterprises.in
 —------------------------------------------------------------------------------
 Startup Name: Neer Shakti Systems Private Limited
 Description: Neer Shakti Systems Private Limited, established on September 26, 2022, focuses on
@@ -340,13 +372,16 @@ research and experimental development in social sciences and humanities (SSH).Th
 company engages in systematic creative work aimed at advancing knowledge and
 innovation in SSH fields. Led by directors Amit Kapur, Anant Kapur, and Anuja Kapur, it
 actively contributes to impactful research and development initiatives.
+Phone No: +91 81300 22042
+Email ID:anantkapur1997@gmail.com
 —------------------------------------------------------------------------------
 Startup Name: Teach Spoon Edtech Private Limited
 Description: Teachspoon Edtech Pvt. Ltd., founded in 2022, bridges the accessibility gap in higher
 education through its platform, Medi Study Go. Specializing in animated lectures, notes,
 mindmaps, and other study resources for MBBS and BDS students, it provides engaging
 and comprehensive learning tools. Incubated at the Manipal-Government of Karnataka
-Bioincubator, the company is dedicated to enhancing education with innovative solutions
+Bioincubator, the company is dedicated to enhancing education with innovative solutions.
+Email ID: palak@teachspoon.com
 —------------------------------------------------------------------------------
  Startup Name: Aion Health Solutions 
  Description: Aion Health Solutions revolves around healthcare

@@ -75,5 +75,13 @@ def render_unified_page(chat_engine):
                 with st.chat_message("assistant"):
                     st.markdown(response.response)
                 st.markdown('</div>', unsafe_allow_html=True)
+                user_message = st.text_input("Type your message below to ask more about this startup:", key="chat_bar")
+                if user_message:
+                    with st.spinner("Generating response..."):
+                        followup_response = chat_engine.chat(user_message)
+                        with st.chat_message("user"):
+                            st.markdown(user_message)
+                        with st.chat_message("assistant"):
+                            st.markdown(followup_response.response)
         except Exception as e:
             st.error(f"Error generating response: {str(e)}")

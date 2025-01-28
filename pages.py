@@ -92,27 +92,19 @@ def render_unified_page(chat_engine):
                 continue
                 
             st.markdown(f"Showing {len(filtered_startups)} startups")
-            with st.container():
-                st.markdown('<div class="scrollable-container">', unsafe_allow_html=True)
-                cols = st.columns(3)
-                
-                # Calculate number of rows needed
-                num_rows = (len(filtered_startups) + 2) // 3  # Round up division
-                
-                for row in range(num_rows):
-                    for col in range(3):
-                        idx = row * 3 + col
-                        if idx < len(filtered_startups):
-                            with cols[col]:
-                                if st.button(
-                                    filtered_startups[idx],
-                                    key=f"{key}_startup_{idx}",
-                                    use_container_width=True
-                                ):
-                                    st.session_state.clicked_startup = filtered_startups[idx]
-                                    st.session_state.messages = []
-                
-                st.markdown('</div>', unsafe_allow_html=True)    
+            cols = st.columns(3)
+            
+            for idx, startup in enumerate(filtered_startups):
+                with cols[idx % 3]:
+                    if st.button(
+                        startup,
+                        key=f"{key}_startup_{idx}",
+                        use_container_width=True
+                    ):
+                        st.session_state.clicked_startup = startup
+                        # Clear messages when new startup is selected
+                        st.session_state.messages = []
+                        
     # Display chat interface if a startup is selected
     if st.session_state.clicked_startup:
         try:
